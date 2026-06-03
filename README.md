@@ -1,11 +1,17 @@
 # Skill Collection
 
-A curated collection of useful agent skills.
+A curated address book of useful agent skills.
 
-## Structure
+This repository tracks skill source links only. It does not mirror or vendor the original skill contents.
 
-- `skills/` - reusable skills and workflows
-- `notes/` - collection notes, references, and evaluation notes
+## Skill Addresses
+
+| Name | Address | Notes |
+| --- | --- | --- |
+| Learn Quiz | https://gist.github.com/ThariqS/1389dcdff9eba4789887a2211370f06b | Teaching and comprehension-check skill. |
+| Academic Research Skills | https://github.com/Imbad0202/academic-research-skills/blob/main/README.zh-CN.md | Academic research workflow skill collection. |
+| Graphify | https://github.com/safishamsi/graphify | Code graph and graph-aware workflow skill. |
+| Taste Skill | https://github.com/Leonxlnx/taste-skill | Visual taste, redesign, brand, and frontend design skills. |
 
 ## Criteria
 
